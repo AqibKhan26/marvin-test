@@ -1,0 +1,24 @@
+{
+  "summary": {
+    "title": "GitHub bot",
+    "owner": "Varun"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Arshdeep"
+      },
+      {
+        "name": "Nishant"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "main",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Daman"
+  }
+}
